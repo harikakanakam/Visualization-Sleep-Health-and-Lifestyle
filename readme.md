@@ -37,6 +37,7 @@ Apnea).
 #### Q1: How does sleep duration vary by Occupation and gender?
 From the below visualization, average sleep duration for each occupation based on the gender can be
 visualized.
+<img width="1081" alt="Avg Sleep Duration" src="https://github.com/harikakanakam/Visualization-Sleep-Health-and-Lifestyle/assets/113376852/44a2b6b9-ac6f-45cc-b30a-d8614445382d">
 
 ##### Observations from the above visualization:
 - There are only male in sales representative occupation which has the lease average sleep
@@ -48,6 +49,7 @@ occupation has an average sleep duration less than 5 hours per day.
 #### Q2: Correlation between daily steps and heart rate
 The correlation between daily steps and heart rate can be depicted from the below graph for the age
 groups for 30-40, 40-50 and otherwise. Age group is categorized as <20, 20-30, 30-40, 40-50, otherwise.
+<img width="1085" alt="Heart rate vs daily steps" src="https://github.com/harikakanakam/Visualization-Sleep-Health-and-Lifestyle/assets/113376852/faff81fa-7c88-4f52-a51d-5830b109acf3">
 
 ##### Observations from the above visualization:
 - Only people from the age group 40-50 other than otherwise has the fulfillment of average daily
@@ -58,6 +60,7 @@ the heart rate with increase on the steps count.
 #### Q3: Relationship between sleep quality and stress level
 From the below horizontal graph, the relationship between sleep quality and stress levels can be
 evaluated based on the age group.
+<img width="1082" alt="sleep quality change with stress level" src="https://github.com/harikakanakam/Visualization-Sleep-Health-and-Lifestyle/assets/113376852/130be64a-1377-42bf-9e9b-c6cf60496868">
 
 Stress levels are categorized as low(0-3), medium(4-6) and high(7-10)
 ##### Observations from the above visualization:
@@ -67,6 +70,7 @@ sleep duration.
 - Hence, it is clear that with less stress levels there can be a quality sleep.
 
 #### Q4: Relationship between Sleep duration and BMI category based on average steps count
+<img width="1083" alt="Sleep duration of BMI category" src="https://github.com/harikakanakam/Visualization-Sleep-Health-and-Lifestyle/assets/113376852/99c011ed-4b9c-4a36-a00d-79f757f744f7">
 
 ##### Observations from the above visualization:
 - Obese people has the least count of average steps and a average sleep duration of 6.96 hours
@@ -76,7 +80,8 @@ average step count whereas overweight people have the least average sleep durati
 to people under 3 other BMI categories.
 
 #### Q5: How does sleep disorder and stress level affect sleep quality
- 
+ <img width="1083" alt="Persons count based on sleep disorder" src="https://github.com/harikakanakam/Visualization-Sleep-Health-and-Lifestyle/assets/113376852/f857fd95-4ee8-41f8-8355-8ee5a92e1323">
+
 ##### Observations from the above visualization:
 - There are so many people with no disorder has the highest average sleep duration indicating
 that sleep disorder obviously affects the quality of the sleep.
